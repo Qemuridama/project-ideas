@@ -9,7 +9,7 @@ assignees: ''
 
 ## Adicione o título da sua ideia aqui
 
-Oque é?
+### Oque é?  
 Descreva de forma clara e concisa, o que sua ideia planeja criar
 
-coloque,as,tecologias,que,voce,recomenda,utilizar,aqui,separadas,por,virgula
+__coloque,as,tecologias,que,voce,recomenda,utilizar,aqui,separadas,por,virgula__
